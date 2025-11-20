@@ -1,16 +1,30 @@
-## Hi there 👋, I am Alfred Navarro
+<h1 align="center">Hi there👋, I'm Alfred Navarro</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Computer+Engineer;University+of+Florida;Nice+To+Meet+You+...&center=true"></a>
+</p>
 
-<!--
-**alfredrnavarro/alfredrnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Movie Enthusiast
+- 🌱 I work a lot with Python!
+- ❓ Want to know more about me? You can always contact me via several social media!
+- 📫 How to reach me **alfredrnavarro@gmail.com**
 
-Here are some ideas to get you started:
+<h2 align="left">Tech Stack:</h2>
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,python" width="50%" height="50%"/>
+  </a>
+</p>
+</div>
+
+
+
+## Current projects
+<!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
+- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
+- RLE Encoder
+
+<br />
+	
