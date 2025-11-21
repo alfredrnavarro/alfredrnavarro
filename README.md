@@ -6,7 +6,13 @@
 - 👨‍💻 Movie Enthusiast
 - 🌱 I work a lot with Python!
 - ❓ Want to know more about me? You can always contact me via several social media!
-- 📫 How to reach me **alfredrnavarro@gmail.com**
+- 📫 How to reach me **alfredrnavarro@gmail.com** or through my [personal website](https://alfredrnavarro.github.io/)!
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alfrednavarro0811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfredrnavarro" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alfrednavarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfredrnavarro" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">Tech Stack:</h2>
 <div>
