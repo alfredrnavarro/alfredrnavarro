@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Computer+Engineer;University+of+Florida;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-- 👨‍💻 Movie Enthusiast
+- 👨‍💻 Trying to be the next Tony Stark
 - 🌱 I work a lot with Python!
 - ❓ Want to know more about me? You can always contact me via several social media!
-- 📫 How to reach me **alfredrnavarro@gmail.com** or through my [personal website](https://alfredrnavarro.github.io/)!
+- 📫 Feel free to reach out at **alfredrnavarro@gmail.com** or through my [personal website](https://alfredrnavarro.github.io/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,13 +14,13 @@
 <a href="https://www.instagram.com/alfrednavarr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfredrnavarro" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Languages and Utilities:</h2>
 <div>
 
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,javascript,pytorch" width="50%" height="50%"/>
   </a>
 </p>
 </div>
