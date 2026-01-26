@@ -31,6 +31,7 @@
 <!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
 - RLE Encoder
+- Emergency Resource Locator
 
 <br />
 	
