@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=45B6C4&width=380&height=45&lines=Computer+Engineer;University+of+Florida;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-- 👨‍💻 Trying to be the next Tony Stark
-- 🌱 I work a lot with Python!
+- 👨‍💻 Trying to be the next Tony Stark.
+- 🌱 I love to collaborate with others!
 - ❓ Want to know more about me? You can always contact me via several social media!
 - 📫 Feel free to reach out at **alfredrnavarro@gmail.com** or through my [personal website](https://alfredrnavarro.github.io/)!
 
@@ -20,7 +20,7 @@
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,cpp,python,javascript,pytorch" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=git,vscode,cpp,python,javascript,pytorch,react" width="50%" height="50%"/>
   </a>
 </p>
 </div>
@@ -30,6 +30,7 @@
 ## Current projects
 <!-- - [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes -->
+- Mosquito Tracker
 - RLE Encoder
 - Emergency Resource Locator
 
